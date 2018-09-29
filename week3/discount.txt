@@ -1,0 +1,27 @@
+Enter the number of packages purchased: 10
+Discount amount = $ 99.00
+Total amount = $ 891.00
+
+Process returned 24 (0x18)   execution time : 2.889 s
+Press any key to continue.
+
+Enter the number of packages purchased: 20
+Discount amount = $ 396.00
+Total amount = $ 1584.00
+
+Process returned 25 (0x19)   execution time : 3.188 s
+Press any key to continue.
+
+Enter the number of packages purchased: 50
+Discount amount = $ 1485.00
+Total amount = $ 3465.00
+
+Process returned 25 (0x19)   execution time : 2.502 s
+Press any key to continue.
+
+Enter the number of packages purchased: 100
+Discount amount = $ 3960.00
+Total amount = $ 5940.00
+
+Process returned 25 (0x19)   execution time : 3.282 s
+Press any key to continue.
