@@ -1,0 +1,23 @@
+1/2 remainder is 1
+2/3 remainder is 2
+3/2 remainder is 1
+4/3 remainder is 1
+5/2 remainder is 1
+6/3 remainder is 0
+7/2 remainder is 1
+8/3 remainder is 2
+9/2 remainder is 1
+10/3 remainder is 1
+11/2 remainder is 1
+12/3 remainder is 0
+13/2 remainder is 1
+14/3 remainder is 2
+15/2 remainder is 1
+16/3 remainder is 1
+17/2 remainder is 1
+18/3 remainder is 0
+19/2 remainder is 1
+20/3 remainder is 2
+
+Process returned 0 (0x0)   execution time : 0.136 s
+Press any key to continue.
