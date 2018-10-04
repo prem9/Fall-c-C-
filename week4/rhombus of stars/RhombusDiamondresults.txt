@@ -1,0 +1,18 @@
+Enter the number of rows in Pyramid:  8
+        *
+       * *
+      * * *
+     * * * *
+    * * * * *
+   * * * * * *
+  * * * * * * *
+ * * * * * * * *
+  * * * * * * *
+   * * * * * *
+    * * * * *
+     * * * *
+      * * *
+       * *
+        *
+
+Process returned 7 (0x7)   execution time : 1.498 s
