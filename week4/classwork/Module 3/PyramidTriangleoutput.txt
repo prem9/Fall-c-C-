@@ -1,0 +1,14 @@
+Enter the number of rows in Pyramid:  10
+          *
+         * *
+        * * *
+       * * * *
+      * * * * *
+     * * * * * *
+    * * * * * * *
+   * * * * * * * *
+  * * * * * * * * *
+ * * * * * * * * * *
+
+Process returned 10 (0xA)   execution time : 1.246 s
+Press any key to continue.
