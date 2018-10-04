@@ -1,0 +1,5 @@
+Guess a number between 1 and 50 : 1
+Guess different than above number between 1 and 50 : 2
+Sum of numbers greater than equal to smaller guess = 1275
+Sum of numbers less than equal to larger guess = 3
+Process returned 0 (0x0)   execution time : 170.643 s
