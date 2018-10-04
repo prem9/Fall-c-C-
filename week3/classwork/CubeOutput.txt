@@ -1,0 +1,14 @@
+Enter number of terms: 10
+Number    Cube of the number
+1            1
+2            8
+3            27
+4            64
+5            124
+6            216
+7            343
+8            512
+9            729
+10            1000
+
+Process returned 10 (0xA)   execution time : 19.007 s
