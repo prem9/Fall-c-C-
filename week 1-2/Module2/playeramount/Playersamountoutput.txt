@@ -1,0 +1,21 @@
+Enter amount of potential players applying for nfl
+22
+Team doesn't have enough for nfl
+The team needs 31 players more to make up nfl team
+
+Enter amount of potential players applying for nba
+37
+Team has too many players for nba
+The team needs 24 players less to make up nba team
+
+Enter amount of potential players applying for mlb
+50
+Team has too many players for mlb
+The team needs 25 players less to make up mlb team
+
+Enter amount of potential players applying for nhl
+25
+Team has too many players for nhl
+The team needs 2 players less to make up nhl team
+
+Process returned 0 (0x0)   execution time : 51.140 s
