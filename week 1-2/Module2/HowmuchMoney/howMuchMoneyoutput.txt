@@ -1,0 +1,9 @@
+How many quarters are there 4
+
+ How many dimes are there 10
+
+How many pennies are there 100
+
+How many nickels are there 20
+Total amount is $4.00
+Process returned 21 (0x15)   execution time : 9.800 s
