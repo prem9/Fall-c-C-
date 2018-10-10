@@ -1,0 +1,4 @@
+Total  Pay for the rate of $30 per hour for 20 hours is $ 600.00
+Total  Pay for the rate of $15.50 per hour for 50 hours is $ 852.50
+Total  Pay for the rate of $11 per hour for 70.25 hours is $ 995.50
+Process returned 67 (0x43)   execution time : 0.334 s
