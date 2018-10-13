@@ -1,0 +1,26 @@
+Round 1
+Doubles: 6
+Amount of doubles so far: 1
+Percentage for doubles by round:  100.00
+Do you want to continue Y/N: Y
+
+Round 2
+Doubles: 5
+Amount of doubles so far: 2
+Percentage for doubles by round:  100.00
+Do you want to continue Y/N: Y
+
+Round 3
+The dice results are : 6, 5
+Amount of doubles so far: 2
+Percentage for doubles by round:  66.67
+Do you want to continue Y/N: Y
+
+Round 4
+Doubles: 1
+Amount of doubles so far: 3
+Percentage for doubles by round:  75.00
+Do you want to continue Y/N: N
+
+
+Process returned 0 (0x0)   execution time : 60.258 s
