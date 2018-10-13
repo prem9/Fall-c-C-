@@ -1,0 +1,9 @@
+Your order multiplied with tax of 10 percent comes to total bill is $17.60
+Your order multiplied with tax of 10 percent comes to total bill is $70.40
+How many hamburgers would you like:  3
+
+How many hotdogs would you like:  2
+HOw many milkshakes would you like:  1
+Your order multiplied with tax of 10 percent comes to total bill is $17.60
+
+Process returned 0 (0x0)   execution time : 7.457 s
