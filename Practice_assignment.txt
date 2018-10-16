@@ -1,0 +1,5 @@
+1. false
+2.a uncertain
+3.a= 10 b = 5
+4. equal
+5. A
