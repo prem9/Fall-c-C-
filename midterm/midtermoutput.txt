@@ -1,0 +1,39 @@
+What is your name (Return/Enter to quit)?John
+
+How many quarters are there 1
+
+ How many dimes are there 1
+
+How many pennies are there 1
+
+How many nickels are there 1
+All counted, John has: $0.41
+Need to save more
+What is your name (Return/Enter to quit)?Mary
+
+How many quarters are there 8
+
+ How many dimes are there 6
+
+How many pennies are there 4
+
+How many nickels are there 2
+All counted, Mary has: $2.74
+Time to put cash into the bank
+What is your name (Return/Enter to quit)?Mart
+
+How many quarters are there 12
+
+ How many dimes are there 23
+
+How many pennies are there 45
+
+How many nickels are there 34
+All counted, Mart has: $7.45
+Time to put cash into the bank
+What is your name (Return/Enter to quit)?
+
+Bye
+
+Process returned 0 (0x0)   execution time : 132.293 s
+Press any key to continue.
