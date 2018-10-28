@@ -102,63 +102,57 @@ int binary_Decimal(int n)
 // Driver program to test above function
 int main()
 {
-    /*1. Convert 55ef from base 16 to base 2 */
+    printf("\n1. Convert 55ef from base 16 to base 2 \n");
     char num[]="0x55ef";
-long n1 = strtol(num, NULL, 16);
+    long n1 = strtol(num, NULL, 16);
+    decimal_Binary(n1);
 
-printf("n1=%04x  %ld\n", n1,n1);  // prints 12406
-   decimal_Binary(n1);
-
-/*2. Convert c66 from hexadecimal to base 2 */
+    printf("\n2. Convert c66 from hexadecimal to base 2 \n");
     char num1[]="0xc66";
-n1 = strtol(num1, NULL, 16);
+    n1 = strtol(num1, NULL, 16);
+    decimal_Binary(n1);
 
-printf("\n n1=%04x  %ld\n", n1,n1);  // prints 12406
-   decimal_Binary(n1);
-
-/*3. Convert 0100 0111 1011 0111 from base 2 to hexadecimal */
+    printf("\n3.Convert 0100 0111 1011 0111 from base 2 to hexadecimal \n");
     //char num3[] = "10000";
     char num3[] = "0100011110110111";
     //char *ptr = num3;
-    printf("\nQ3. %s \n",num3);
     n1 = strtol(num3, NULL, 2);
-printf("\n  %04x\n", n1);
-/*4. Convert 55 from base 8 to  binary */
-char num4[] = "055";
-
-    printf("\nQ4. %s \n",num4);
+    printf("  %04x\n", n1);
+    printf("4. Convert 55 from base 8 to  binary\n");
+    char num4[] = "055";
     n1 = strtol(num4, NULL, 8);
     decimal_Binary(n1);
-/*5. Convert 101 000 000 from base 2 to base 8 */
-  char num5[] = "101000000";
-    printf("\nQ5. %s \n",num5);
+
+    printf("\n5. Convert 101 000 000 from base 2 to base 8");
+    char num5[] = "101000000";
+    //printf("\nQ5. %s \n",num5);
     n1 = strtol(num5, NULL, 2);
-printf("\n  %04o\n", n1);
-/*6. Convert 110 000 from base 2 to octal */
-  char num6[] = "110000";
-    printf("\nQ6. %s \n",num6);
+    printf("\n  %04o", n1);
+    printf("\n6. Convert 110 000 from base 2 to octal");
+    char num6[] = "110000";
+    //printf("\nQ6. %s \n",num6);
     n1 = strtol(num6, NULL, 2);
-printf("\n  %04o\n", n1);
-/*7. Convert 001 101 010 from base 2 to octal  */
-  char num7[] = "001101010";
-    printf("\nQ7. %s \n",num7);
+    printf("\n  %04o\n", n1);
+    printf("7. Convert 001 101 010 from base 2 to octal");
+    char num7[] = "001101010";
+    //printf("\nQ7. %s \n",num7);
     n1 = strtol(num7, NULL, 2);
-printf("\n  %04o\n", n1);
-/*8. Convert 2c80 from hexadecimal to binary */
-   char num8[]="0x2c80";
-n1 = strtol(num8, NULL, 16);
+    printf("\n  %04o\n", n1);
+    printf("8. Convert 2c80 from hexadecimal to binary\n");
+    char num8[]="0x2c80";
+    n1 = strtol(num8, NULL, 16);
 
-printf("\nQ8. n1=%04x  %ld\n", n1,n1);  // prints 12406
-   decimal_Binary(n1);
-/*9. Convert 1101 0100 from base 2 to decimal */
+    //printf("\nQ8. n1=%04x  %ld\n", n1,n1);  // prints 12406
+    decimal_Binary(n1);
+    printf("\n9. Convert 1101 0100 from base 2 to decimal");
    char num9[]="11010100";
-n1 = strtol(num9, NULL, 2);
-  printf("\nQ9. %s\n",num9);
-printf("\n n1=  %ld\n",n1);
-/*10. Convert 14 from octal to base 2 */
-   char num10[] = "014";
+    n1 = strtol(num9, NULL, 2);
+    //printf("\nQ9. %s\n",num9);
+    printf("\n  %ld\n",n1);
+    printf("10. Convert 14 from octal to base 2\n");
+    char num10[] = "014";
 
-    printf("\nQ10. %s \n",num10);
+    //printf("\nQ10. %s \n",num10);
     n1 = strtol(num10, NULL, 8);
     decimal_Binary(n1);
 

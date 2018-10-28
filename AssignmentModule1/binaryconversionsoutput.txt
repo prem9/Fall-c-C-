@@ -1,0 +1,22 @@
+1. Convert 55ef from base 16 to base 2
+101010111101111
+2. Convert c66 from hexadecimal to base 2
+110001100110
+3.Convert 0100 0111 1011 0111 from base 2 to hexadecimal
+  47b7
+4. Convert 55 from base 8 to  binary
+101101
+5. Convert 101 000 000 from base 2 to base 8
+  0500
+6. Convert 110 000 from base 2 to octal
+  0060
+7. Convert 001 101 010 from base 2 to octal
+  0152
+8. Convert 2c80 from hexadecimal to binary
+10110010000000
+9. Convert 1101 0100 from base 2 to decimal
+  212
+10. Convert 14 from octal to base 2
+1100
+Process returned 0 (0x0)   execution time : 0.211 s
+Press any key to continue.
