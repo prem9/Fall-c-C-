@@ -1,0 +1,25 @@
+Using & operator:
+-----------------------------------------------------
+Address of m is 0060FF00
+Address of fx is 0060FEFC
+Address of cht is 0060FEFB
+
+Using & and * operator:
+-----------------------------------------------------
+value at m is 300
+value at fx is 300.600006
+value at cht is z
+
+Using only pointer variable :
+-----------------------------------------------------
+Address of m is 0060FF00
+Address of fx is 0060FEFC
+Address of cht is 0060FEFB
+
+Using only pointer operator :
+-----------------------------------------------------
+value at m is 300
+value at fx is 300.600006
+value at cht is z
+Process returned 0 (0x0)   execution time : 0.104 s
+Press any key to continue.
