@@ -1,0 +1,6 @@
+
+Enter a String Monday
+
+ Converted String is : mONDAY
+Process returned 30 (0x1E)   execution time : 18.766 s
+Press any key to continue.
