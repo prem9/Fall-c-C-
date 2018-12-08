@@ -1,0 +1,13 @@
+Your order of 3 hamburgers, 1 milk shake and 2 hot dogs, with tax of 10% = $17.60
+Your order of 8 hamburger, 8 milk shakes and 8 hot dogs, with tax of 10% =  $70.40
+
+How many hamburgers would you like:  8
+
+How many hot dogs would you like:  8
+
+How many milkshakes would you like:  8
+
+Your order of 8 hamburgers, 8 milk shakes and 8 hot dogs, with tax of 10% =  $70.40
+
+Process returned 0 (0x0)   execution time : 4.765 s
+Press any key to continue.
