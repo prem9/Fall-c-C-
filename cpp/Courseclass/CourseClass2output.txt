@@ -1,0 +1,11 @@
+Course Name: C++
+Units: 4
+Instuctor's name: Dr. Avid
+End of call to displaycourse
+Course Name: C++
+Units: 160
+Instuctor's name: Dr. Avid
+End of call to displaycourse
+
+Process returned 0 (0x0)   execution time : 0.043 s
+Press any key to continue.
